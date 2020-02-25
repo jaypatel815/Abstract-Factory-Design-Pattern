@@ -1,2 +1,2 @@
 # Abstract-Factory-Design-Pattern
-This 
+This is an Abstract Factory Design Pattern for Computer Factory.
