@@ -1,2 +1,2 @@
 # Abstract-Factory-Design-Pattern
-This is an Abstract Factory Design Pattern for Computer Factory.
+This is a program that implements the Abstract Factory Design Pattern for the Computer Store.
